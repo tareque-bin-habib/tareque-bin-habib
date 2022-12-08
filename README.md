@@ -7,8 +7,7 @@
 I'm a MERN Stack Web Developer, who is passionate about error free websites. Most of the time i work with REACT JS / Node JS/ Express JS / MongoDB . Alhamdulillah day by day I increase my knowledge on coding..... 
 
 Skills:  REACT / JS / MongoDB / ExpressJs / nodeJs  / Firebase / HTML  / CSS /Tailwind CSS /Bootstrap 
-
-- 🔭 I’m currently working on this page. 
+ 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development 
