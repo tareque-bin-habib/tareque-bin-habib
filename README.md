@@ -1,4 +1,4 @@
-![MERN Stack Developer](https://media-exp1.licdn.com/dms/image/D5616AQGmAuUCRUdHqg/profile-displaybackgroundimage-shrink_350_1400/0/1670511243298?e=1675900800&v=beta&t=wI9-BM2zWTBWukAbBcXgMCB01YYSl7fUE9s7bleW6KA)
+![MERN Stack Developer](https://media-exp1.licdn.com/dms/image/D5616AQHZ2IIMaOOFLA/profile-displaybackgroundimage-shrink_350_1400/0/1670522539853?e=1675900800&v=beta&t=wD71mWOunccBlqJ-Pa9HfRE2mBWn3_XGTZicKch5Fk0)
 
 ### Hi there 👋, I'm Tareque Bin Habib
 #### 🧑‍💻 MERN Stack Developer
